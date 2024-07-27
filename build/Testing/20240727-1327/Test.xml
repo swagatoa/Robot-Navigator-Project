@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-make"
+	BuildStamp="20240727-1327-Experimental"
+	Name="dell-inspiron"
+	Generator="ctest-3.28.3-msvc11"
+	CompilerName="C:/MinGW/bin/g++.exe"
+	CompilerVersion="11.2.0"
+	OSName="Windows"
+	Hostname="dell-inspiron"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19045)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="18579"
+	TotalPhysicalMemory="16147"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1497"
+	>
+	<Testing>
+		<StartDateTime>Jul 27 09:28 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1722086928</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 27 09:28 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1722086928</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

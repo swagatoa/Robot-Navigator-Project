@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Work/c++/Robot-Navigator-Project/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/RobotNavigator.dir/game.cpp.obj -c C:/Work/c++/Robot-Navigator-Project/game.cpp",
+  "file": "C:/Work/c++/Robot-Navigator-Project/game.cpp",
+  "output": "CMakeFiles/RobotNavigator.dir/game.cpp.obj"
+},
+{
+  "directory": "C:/Work/c++/Robot-Navigator-Project/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/RobotNavigator.dir/main.cpp.obj -c C:/Work/c++/Robot-Navigator-Project/main.cpp",
+  "file": "C:/Work/c++/Robot-Navigator-Project/main.cpp",
+  "output": "CMakeFiles/RobotNavigator.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Work/c++/Robot-Navigator-Project/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/RobotNavigator.dir/robot.cpp.obj -c C:/Work/c++/Robot-Navigator-Project/robot.cpp",
+  "file": "C:/Work/c++/Robot-Navigator-Project/robot.cpp",
+  "output": "CMakeFiles/RobotNavigator.dir/robot.cpp.obj"
+}
+]
